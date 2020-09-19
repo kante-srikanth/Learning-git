@@ -8,3 +8,4 @@ macbook
 windows
 android phone
 lenovo
+samsung
