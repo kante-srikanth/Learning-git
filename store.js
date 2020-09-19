@@ -4,3 +4,5 @@ iphone added
 ipad
 iwatch
 edited store
+macbook
+windows
