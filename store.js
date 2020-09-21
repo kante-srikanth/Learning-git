@@ -13,3 +13,4 @@ micromax
 zsh
 zsh is awesome
 learning git
+learning commands
