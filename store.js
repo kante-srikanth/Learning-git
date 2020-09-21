@@ -12,3 +12,4 @@ samsung
 micromax
 zsh
 zsh is awesome
+learning git
