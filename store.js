@@ -11,3 +11,4 @@ lenovo
 samsung
 micromax
 zsh
+zsh is awesome
