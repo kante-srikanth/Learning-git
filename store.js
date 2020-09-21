@@ -10,3 +10,4 @@ android phone
 lenovo
 samsung
 micromax
+zsh
