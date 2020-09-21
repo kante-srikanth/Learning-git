@@ -14,3 +14,5 @@ zsh
 zsh is awesome
 learning git
 learning commands
+
+restore command
